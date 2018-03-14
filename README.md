@@ -1,2 +1,2 @@
 # mirrortes
-##Hello mirroringt
+##Hello mirroring
